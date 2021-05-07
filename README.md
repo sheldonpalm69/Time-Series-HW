@@ -1,5 +1,5 @@
 # Forecasting Yen Future Prices
-![DollarYen]( OneDrive/Desktop/jupyterlab-workplace/Time-Series-HW/yendollar.jpg)
+![DollarYen]( yendollar.jpg)
 
 #### UM FinTech BootCamp 2021
 
