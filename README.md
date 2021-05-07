@@ -29,7 +29,7 @@ To reach my predictions I first:
 
 * Forecasting Volatility with GARCH.
 ![GARCH Results](GARCHResults)
-![GARCH Results](GARCH Results)
+![GARCH Results](https://raw.githubusercontent.com/sheldonpalm69/Time-Series-HW/main/GARCH%20Results.pngs)
 
 
 
