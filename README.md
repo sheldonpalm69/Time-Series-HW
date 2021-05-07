@@ -3,7 +3,7 @@
 
 #### UM FinTech BootCamp 2021
 
-#### April 13th, 2021
+#### May 8th, 2021
 
 ---
 
