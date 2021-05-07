@@ -22,9 +22,11 @@ To reach my predictions I first:
 * Forecasting Returns using the ARMA Model.
 ![ARMA](ARMA.png)
 ![ARIMA Results](ARIMA Results)
+
 * Forecasting the Settle Price using an ARIMA Model.
 ![ARIMA](ARIMA.png)
 ![ARIMA Results](ARIMA Results)
+
 * Forecasting Volatility with GARCH.
 ![GARCH Results](GARCHResults)
 ![GARCH Results](GARCH Results)
