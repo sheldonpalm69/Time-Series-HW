@@ -13,16 +13,21 @@
 
 ---
 
-## Time-Series Forecasting
+## Time Series Forecasting
 Loading historical Dollar-Yen exchange rate futures data and apply time series analysis and modeling I will present my predictions using the confluence of these models. 
 To reach my predictions I first:
 * Decomposition using the Hodrick-Prescott Filter (Decompose the Settle price into trend and noise)
-
+![HP Decomposition](HP Decomposition.png)
 
 * Forecasting Returns using the ARMA Model.
+![ARMA](ARMA.png)
+![ARIMA Results](ARIMA Results)
 * Forecasting the Settle Price using an ARIMA Model.
+![ARIMA](ARIMA.png)
+![ARIMA Results](ARIMA Results)
 * Forecasting Volatility with GARCH.
-
+![GARCH Results](GARCHResults)
+![GARCH Results](GARCH Results)
 
 
 
@@ -51,7 +56,7 @@ Does this model perform better or worse on out-of-sample data compared to in-sam
 
 ### Datasets To Be Used
 
-- https://miami.bootcampcontent.com/Miami-Boot-Camp/mia-virt-fin-pt-02-2021-u-c/-/blob/master/Homework/10-Time-Series/Instructions/Starter_Code/yen.csv
+![yen.csv](https://miami.bootcampcontent.com/Miami-Boot-Camp/mia-virt-fin-pt-02-2021-u-c/-/blob/master/Homework/10-Time-Series/Instructions/Starter_Code/yen.csv)
 
 #### References
 
