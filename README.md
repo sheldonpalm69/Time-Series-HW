@@ -21,7 +21,7 @@ To reach my predictions I first:
 ![Settle vs_Trend](Settle_vs_Trend.png)
 
 * # Forecasting Returns using the ARMA Model.
-![ARMA](ARMA.png)
+![ARMA](OneDrive/Desktop/jupyterlab-workplace/Time-Series-HW/images/ARMA.png)
 ![ARMA Results](ARMAResults.png)
 * # Forecasting the Settle Price using an ARIMA Model.
 ![ARIMA](ARIMA.png)
@@ -57,7 +57,7 @@ Does this model perform better or worse on out-of-sample data compared to in-sam
 
 ### Datasets To Be Used
 
-![yen.csv](https://miami.bootcampcontent.com/Miami-Boot-Camp/mia-virt-fin-pt-02-2021-u-c/-/blob/master/Homework/10-Time-Series/Instructions/Starter_Code/yen.csv)
+![yen.csv](yen.csv)
 
 #### References
 
