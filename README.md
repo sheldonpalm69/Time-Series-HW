@@ -21,7 +21,7 @@ To reach my predictions I first:
 ![Settle vs_Trend](Settle_vs_Trend.png)
 
 * # Forecasting Returns using the ARMA Model.
-![ARMA](OneDrive/Desktop/jupyterlab-workplace/Time-Series-HW/images/ARMA.png)
+![ARMA](ARMA.png)
 ![ARMA Results](ARMAResults.png)
 * # Forecasting the Settle Price using an ARIMA Model.
 ![ARIMA](ARIMA.png)
